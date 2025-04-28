@@ -55,7 +55,7 @@ This pipeline design ensures a scalable, secure, and efficient framework for rea
 
 ## Setup
 
-<img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot%202025-04-28%20232156.png" width="600"/>
+<img src="Project_screenshots/Screenshot 2025-04-28 232156.png" width="600"/>
 
 1. **Unity Metastore**: Create and configure Unity Metastore.
 2. **External Locations**: Register storage paths.
