@@ -1,5 +1,16 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC # Data Transformation: landing_zone to Bronze Layer with Enhancements
+
+# COMMAND ----------
+
 # MAGIC %run "/Workspace/Project/04.Common Notebook"
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC ## Define the Environment for the Data Pipeline
+# MAGIC
 
 # COMMAND ----------
 
