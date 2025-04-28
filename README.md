@@ -128,8 +128,8 @@ Benefits:
 - Scalability and maintainability.
 - Easy incremental updates.
 <p float="left">
-  <img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot%202025-04-28%20232221.png" width="500"/>
-  <img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot%202025-04-28%20232310.png" width="500"/>
+  <img src="Project_screenshots/Screenshot 2025-04-28 232221.png" width="500"/>
+  <img src="Project_screenshots/Screenshot 2025-04-28 232310.png" width="500"/>
 </p>
 ---
 
@@ -157,13 +157,13 @@ Key components:
 | `landing_external_location` | Creates external locations to store full raw data dumps in the Landing Zone. |
 ---
 <p float="left">
-  <img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot 2025-04-28 232431.png" width="500"/>
-  <img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot 2025-04-28 232449.png" width="500"/>
+  <img src="Project_screenshots/Screenshot 2025-04-28 232449.png" width="500"/>
+  <img src="Project_screenshots/Screenshot 2025-04-28 232431.png" width="500"/>
 </p>
 
 <p float="left">
-  <img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot 2025-04-28 235104.png" width="500"/>
-  <img src="/Workspace/Repos/mayurkhomane7@gmail.com/Databricks_traffic_roads_data/Project_screenshots/Screenshot 2025-04-29 002026.png" width="480"/>
+  <img src="Project_screenshots/Screenshot 2025-04-28 235104.png" width="500"/>
+  <img src="Project_screenshots/Screenshot 2025-04-29 002026.png" width="480"/>
 </p>
 
 ## Usage
